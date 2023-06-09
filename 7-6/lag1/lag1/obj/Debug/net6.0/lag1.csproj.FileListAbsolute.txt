@@ -1,0 +1,15 @@
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.csproj.AssemblyReference.cache
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.AssemblyInfoInputs.cache
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.AssemblyInfo.cs
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.csproj.CoreCompileInputs.cache
+D:\C#\7-6\lag1\lag1\bin\Debug\net6.0\lag1.exe
+D:\C#\7-6\lag1\lag1\bin\Debug\net6.0\lag1.deps.json
+D:\C#\7-6\lag1\lag1\bin\Debug\net6.0\lag1.runtimeconfig.json
+D:\C#\7-6\lag1\lag1\bin\Debug\net6.0\lag1.dll
+D:\C#\7-6\lag1\lag1\bin\Debug\net6.0\lag1.pdb
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.dll
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\refint\lag1.dll
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.pdb
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\lag1.genruntimeconfig.cache
+D:\C#\7-6\lag1\lag1\obj\Debug\net6.0\ref\lag1.dll

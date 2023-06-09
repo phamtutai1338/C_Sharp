@@ -1,0 +1,15 @@
+D:\C#\9-6\lag5\ExHandling3\bin\Debug\net6.0\ExHandling3.exe
+D:\C#\9-6\lag5\ExHandling3\bin\Debug\net6.0\ExHandling3.deps.json
+D:\C#\9-6\lag5\ExHandling3\bin\Debug\net6.0\ExHandling3.runtimeconfig.json
+D:\C#\9-6\lag5\ExHandling3\bin\Debug\net6.0\ExHandling3.dll
+D:\C#\9-6\lag5\ExHandling3\bin\Debug\net6.0\ExHandling3.pdb
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.csproj.AssemblyReference.cache
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.AssemblyInfoInputs.cache
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.AssemblyInfo.cs
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.csproj.CoreCompileInputs.cache
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.dll
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\refint\ExHandling3.dll
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.pdb
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ExHandling3.genruntimeconfig.cache
+D:\C#\9-6\lag5\ExHandling3\obj\Debug\net6.0\ref\ExHandling3.dll

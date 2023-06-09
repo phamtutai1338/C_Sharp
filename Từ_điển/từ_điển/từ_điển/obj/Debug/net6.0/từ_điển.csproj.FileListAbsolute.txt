@@ -1,0 +1,15 @@
+D:\C#\Từ_điển\từ_điển\từ_điển\bin\Debug\net6.0\từ_điển.exe
+D:\C#\Từ_điển\từ_điển\từ_điển\bin\Debug\net6.0\từ_điển.deps.json
+D:\C#\Từ_điển\từ_điển\từ_điển\bin\Debug\net6.0\từ_điển.runtimeconfig.json
+D:\C#\Từ_điển\từ_điển\từ_điển\bin\Debug\net6.0\từ_điển.dll
+D:\C#\Từ_điển\từ_điển\từ_điển\bin\Debug\net6.0\từ_điển.pdb
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.csproj.AssemblyReference.cache
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.AssemblyInfoInputs.cache
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.AssemblyInfo.cs
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.csproj.CoreCompileInputs.cache
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.dll
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\refint\từ_điển.dll
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.pdb
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\từ_điển.genruntimeconfig.cache
+D:\C#\Từ_điển\từ_điển\từ_điển\obj\Debug\net6.0\ref\từ_điển.dll

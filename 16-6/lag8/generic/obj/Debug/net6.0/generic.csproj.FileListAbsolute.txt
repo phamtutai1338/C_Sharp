@@ -1,0 +1,15 @@
+D:\C#\16-6\lag8\generic\bin\Debug\net6.0\generic.exe
+D:\C#\16-6\lag8\generic\bin\Debug\net6.0\generic.deps.json
+D:\C#\16-6\lag8\generic\bin\Debug\net6.0\generic.runtimeconfig.json
+D:\C#\16-6\lag8\generic\bin\Debug\net6.0\generic.dll
+D:\C#\16-6\lag8\generic\bin\Debug\net6.0\generic.pdb
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.csproj.AssemblyReference.cache
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.AssemblyInfoInputs.cache
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.AssemblyInfo.cs
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.csproj.CoreCompileInputs.cache
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.dll
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\refint\generic.dll
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.pdb
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\generic.genruntimeconfig.cache
+D:\C#\16-6\lag8\generic\obj\Debug\net6.0\ref\generic.dll

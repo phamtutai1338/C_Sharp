@@ -1,0 +1,15 @@
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.csproj.AssemblyReference.cache
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.AssemblyInfoInputs.cache
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.AssemblyInfo.cs
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.csproj.CoreCompileInputs.cache
+D:\C#\16-6\lag8\lag8\bin\Debug\net6.0\lag8.exe
+D:\C#\16-6\lag8\lag8\bin\Debug\net6.0\lag8.deps.json
+D:\C#\16-6\lag8\lag8\bin\Debug\net6.0\lag8.runtimeconfig.json
+D:\C#\16-6\lag8\lag8\bin\Debug\net6.0\lag8.dll
+D:\C#\16-6\lag8\lag8\bin\Debug\net6.0\lag8.pdb
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.dll
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\refint\lag8.dll
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.pdb
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\lag8.genruntimeconfig.cache
+D:\C#\16-6\lag8\lag8\obj\Debug\net6.0\ref\lag8.dll

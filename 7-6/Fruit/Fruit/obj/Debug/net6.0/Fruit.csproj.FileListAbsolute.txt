@@ -1,0 +1,5 @@
+D:\Fruit\Fruit\obj\Debug\net6.0\Fruit.csproj.AssemblyReference.cache
+D:\Fruit\Fruit\obj\Debug\net6.0\Fruit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fruit\Fruit\obj\Debug\net6.0\Fruit.AssemblyInfoInputs.cache
+D:\Fruit\Fruit\obj\Debug\net6.0\Fruit.AssemblyInfo.cs
+D:\Fruit\Fruit\obj\Debug\net6.0\Fruit.csproj.CoreCompileInputs.cache

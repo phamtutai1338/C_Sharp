@@ -1,0 +1,15 @@
+D:\C#\7-6\lag2.1\ObjectArray\bin\Debug\net6.0\ObjectArray.exe
+D:\C#\7-6\lag2.1\ObjectArray\bin\Debug\net6.0\ObjectArray.deps.json
+D:\C#\7-6\lag2.1\ObjectArray\bin\Debug\net6.0\ObjectArray.runtimeconfig.json
+D:\C#\7-6\lag2.1\ObjectArray\bin\Debug\net6.0\ObjectArray.dll
+D:\C#\7-6\lag2.1\ObjectArray\bin\Debug\net6.0\ObjectArray.pdb
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.AssemblyReference.cache
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfoInputs.cache
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.AssemblyInfo.cs
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.csproj.CoreCompileInputs.cache
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.dll
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\refint\ObjectArray.dll
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.pdb
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ObjectArray.genruntimeconfig.cache
+D:\C#\7-6\lag2.1\ObjectArray\obj\Debug\net6.0\ref\ObjectArray.dll

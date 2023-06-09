@@ -1,0 +1,15 @@
+D:\C#\9-6\lag5\FinallyStm\bin\Debug\net6.0\FinallyStm.exe
+D:\C#\9-6\lag5\FinallyStm\bin\Debug\net6.0\FinallyStm.deps.json
+D:\C#\9-6\lag5\FinallyStm\bin\Debug\net6.0\FinallyStm.runtimeconfig.json
+D:\C#\9-6\lag5\FinallyStm\bin\Debug\net6.0\FinallyStm.dll
+D:\C#\9-6\lag5\FinallyStm\bin\Debug\net6.0\FinallyStm.pdb
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.csproj.AssemblyReference.cache
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.AssemblyInfoInputs.cache
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.AssemblyInfo.cs
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.csproj.CoreCompileInputs.cache
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.dll
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\refint\FinallyStm.dll
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.pdb
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\FinallyStm.genruntimeconfig.cache
+D:\C#\9-6\lag5\FinallyStm\obj\Debug\net6.0\ref\FinallyStm.dll
